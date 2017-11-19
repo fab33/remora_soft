@@ -121,6 +121,7 @@ extern "C" {
 #include "tinfo.h"
 #include "webserver.h"
 #include "webclient.h"
+#include "mqtt.h"
 
 // RGB LED related MACROS
 #if defined (ESP8266)
